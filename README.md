@@ -3,7 +3,7 @@ Book Inventory Management System
 
 Project information: This project was written in 2018 as one of my first object oriented programs to help me learn the concepts of pointers, classes, linked lists,
                      and various other rudimentary concepts of programming. The code is not pretty as this was created when I was first learning to program
-                     but the program is very functional and will not break upon any form of user input.
+                     but the application is very functional and will not break upon any form of user input.
                      
 Description: This application is an inventory management system for a fake bookstore called Serendipity.
              The user of this application can add books with various pieces of information to the database, which can then have its information edited,
